@@ -1,0 +1,59 @@
+body{
+    background-color: darkkhaki;
+    color: blue;
+    justify-content: center;
+    margin-left: 40%;
+    margin-top: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+form{
+    display: grid;
+    border: 5px solid blueviolet;
+    width: 200px;
+    height: 400px;
+    justify-content: center;
+    border-radius: 15px;
+    padding: 30px;
+}
+legend {
+    font-size: larger;
+    color: rgb(19, 3, 165);
+}
+
+ }
+.user-name{
+margin-bottom: 0px;
+}
+.user-name-1{
+    margin-top: 0px;
+min-width: 200px;
+height: 30px;
+border: 1px solid black;
+border-radius: 10px;
+}
+
+ .email{
+margin-bottom: 0px;
+margin-top: 0px;
+ }
+ .email-1{
+margin-top: 0px;
+min-width: 200px;
+height: 30px;
+border: 1px solid black;
+border-radius: 10px;
+ }
+ .button {
+    border-color: black;
+    border-radius: 10px;
+    height: 40px;
+    min-width: 100px;
+    margin-top: 15px;
+    margin-left: 100px;
+    background-color: green;
+    color: honeydew;
+    transition-property: color;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    transition-delay: 100ms;
